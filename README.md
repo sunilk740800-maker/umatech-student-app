@@ -1,1 +1,0 @@
-# umatech-student-app
